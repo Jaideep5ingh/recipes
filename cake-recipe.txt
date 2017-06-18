@@ -2,3 +2,8 @@ This is the cake test file!!!!!!!!!!!!!!!!
 #version1
 #master branch
 line 4.........
+
+void cake(){
+	int cake,batter,micro;
+	cake = batter + micro;
+}

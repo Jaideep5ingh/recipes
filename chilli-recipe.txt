@@ -4,3 +4,8 @@ this file is for the chilli recipe!!!!!!!!!!!!!!!!
 
 
 #Line6 
+
+void chill() {
+	int chilli, water, raw;
+	chilli = raw + water;
+}
