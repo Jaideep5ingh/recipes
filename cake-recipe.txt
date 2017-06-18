@@ -1,9 +1,13 @@
 This is the cake test file!!!!!!!!!!!!!!!!
-#version1
-#master branch
-line 4.........
+
 
 void cake(){
 	int cake,batter,micro;
 	cake = batter + micro;
+}
+
+
+void div(){
+	int x,y,z;
+	z = x/y;
 }

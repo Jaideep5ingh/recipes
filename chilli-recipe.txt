@@ -1,6 +1,6 @@
 this file is for the chilli recipe!!!!!!!!!!!!!!!!
-#version1
-#masterBranch
+
+
 
 
 #Line6 
@@ -9,3 +9,10 @@ void chill() {
 	int chilli, water, raw;
 	chilli = raw + water;
 }
+
+
+void add(){
+	int x,y,z;
+	z = x+y;
+}
+

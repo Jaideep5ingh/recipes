@@ -1,6 +1,5 @@
 this is the frosting recipe file!!!!!!!!!!!!!1
-#version1
-#MasterBranch
+
 
 line 5!!!!!!
 
@@ -8,3 +7,10 @@ void frosting(){
 	int cream,mould,apply;
 	apply = cream + mould;
 }
+
+
+void mul(){
+	int x,y,z;
+	z = x*y;
+}
+
