@@ -1,3 +1,8 @@
 this file is for the chilli recipe!!!!!!!!!!!!!!!!
 #version2
 #masterBrannch
+
+void add(){
+	int x,y,z;
+	z = x+y;
+}

@@ -1,3 +1,8 @@
 This is the cake test file!!!!!!!!!!!!!!!!
 #version2
 #master branch
+
+void div(){
+	int x,y,z;
+	z = x/y;
+}
