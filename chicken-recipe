@@ -1,0 +1,6 @@
+this is the file for chicken recipe!!!!!!
+ 
+ void chicken(){
+ int raw,boil,ready;
+ ready= raw + boil;
+ }
